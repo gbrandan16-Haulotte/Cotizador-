@@ -1,7 +1,3 @@
-
-
-
 var SUPABASE_URL=https://gtawmnvxlacxabochaoe.supabase.co/rest/v1/
-
 
 var SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd0YXdtbnZ4bGFjeGFib2NoYW9lIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTMxODg3NDksImV4cCI6MjEwODc2NDc0OX0.1VLDESCKQ6-v8-yL-anP-mgKaR5u5Batlg4p4Fsw1UI
